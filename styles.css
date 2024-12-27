@@ -1,1 +1,23 @@
 
+.container{
+    display: flex;
+    border: 2px solid #ccc;
+    background-color: gray;
+    border-radius: 20px;
+}
+img{
+    border-radius: 20px;
+    border: 1px solid black;
+}
+.left{
+    width: 40%;
+}
+.right{
+    width: 60%;
+}
+p, li{
+    font-size: 25px;
+}
+h1{
+    text-align: center;
+}
